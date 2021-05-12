@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Journal</string>
+    <string name="title_text">Journal</string>
+    <string name="journal_text">Welcome Back!</string>
+    <string name="get_started_button">Get Started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_txt_btn">Login</string>
+    <string name="or_txt">Or</string>
+    <string name="register_btn">Register</string>
+    <string name="username_hint">Username</string>
+    <string name="save">Save</string>
+    <string name="journal_entry_txt">Journal Entry</string>
+    <string name="sign_out_txt">Sign Out</string>
+    <string name="no_entries_txt">No Entries, Create a New One!</string>
+    <string name="today_txt">Today</string>
+</resources>
