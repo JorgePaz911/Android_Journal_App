@@ -32,8 +32,7 @@ public class JournalRecyclerAdapter extends RecyclerView.Adapter<JournalRecycler
     @NonNull
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        View view = LayoutInflater.from(context)
-                .inflate(R.layout.journal_row, parent, false);
+        View view = LayoutInflater.from(context).inflate(R.layout.journal_row, parent, false);
         return new ViewHolder(view, context);
     }
 

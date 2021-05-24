@@ -107,7 +107,7 @@ public class LoginActivity extends AppCompatActivity {
                                                         journalApi.setUsername(snap.getString("username"));
                                                         journalApi.setUserId(snap.getString("userId"));
 
-                                                        startActivity(new Intent(LoginActivity.this, PostJournalActivity.class));
+                                                        startActivity(new Intent(LoginActivity.this, journalListActivity.class));
                                                     }
                                                 }
                                             }
